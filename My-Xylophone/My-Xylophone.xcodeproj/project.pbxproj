@@ -12,6 +12,13 @@
 		CB66D6A0209A9A2100FA3DC8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CB66D69E209A9A2100FA3DC8 /* Main.storyboard */; };
 		CB66D6A2209A9A2400FA3DC8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CB66D6A1209A9A2400FA3DC8 /* Assets.xcassets */; };
 		CB66D6A5209A9A2400FA3DC8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CB66D6A3209A9A2400FA3DC8 /* LaunchScreen.storyboard */; };
+		CB66D6DA209AA2E300FA3DC8 /* note6.wav in Resources */ = {isa = PBXBuildFile; fileRef = CB66D6D3209AA2BC00FA3DC8 /* note6.wav */; };
+		CB66D6DB209AA2E300FA3DC8 /* note7.wav in Resources */ = {isa = PBXBuildFile; fileRef = CB66D6D4209AA2BE00FA3DC8 /* note7.wav */; };
+		CB66D6DC209AA2E300FA3DC8 /* note3.wav in Resources */ = {isa = PBXBuildFile; fileRef = CB66D6D5209AA2C000FA3DC8 /* note3.wav */; };
+		CB66D6DD209AA2E300FA3DC8 /* note5.wav in Resources */ = {isa = PBXBuildFile; fileRef = CB66D6D6209AA2C700FA3DC8 /* note5.wav */; };
+		CB66D6DE209AA2E300FA3DC8 /* note2.wav in Resources */ = {isa = PBXBuildFile; fileRef = CB66D6D7209AA2C900FA3DC8 /* note2.wav */; };
+		CB66D6DF209AA2E300FA3DC8 /* note4.wav in Resources */ = {isa = PBXBuildFile; fileRef = CB66D6D8209AA2CB00FA3DC8 /* note4.wav */; };
+		CB66D6E0209AA2E300FA3DC8 /* note1.wav in Resources */ = {isa = PBXBuildFile; fileRef = CB66D6D9209AA2E000FA3DC8 /* note1.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +29,13 @@
 		CB66D6A1209A9A2400FA3DC8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CB66D6A4209A9A2400FA3DC8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CB66D6A6209A9A2400FA3DC8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CB66D6D3209AA2BC00FA3DC8 /* note6.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = note6.wav; sourceTree = "<group>"; };
+		CB66D6D4209AA2BE00FA3DC8 /* note7.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = note7.wav; sourceTree = "<group>"; };
+		CB66D6D5209AA2C000FA3DC8 /* note3.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = note3.wav; sourceTree = "<group>"; };
+		CB66D6D6209AA2C700FA3DC8 /* note5.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = note5.wav; sourceTree = "<group>"; };
+		CB66D6D7209AA2C900FA3DC8 /* note2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = note2.wav; sourceTree = "<group>"; };
+		CB66D6D8209AA2CB00FA3DC8 /* note4.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = note4.wav; sourceTree = "<group>"; };
+		CB66D6D9209AA2E000FA3DC8 /* note1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = note1.wav; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +72,13 @@
 				CB66D69C209A9A2100FA3DC8 /* ViewController.swift */,
 				CB66D69E209A9A2100FA3DC8 /* Main.storyboard */,
 				CB66D6A1209A9A2400FA3DC8 /* Assets.xcassets */,
+				CB66D6D9209AA2E000FA3DC8 /* note1.wav */,
+				CB66D6D7209AA2C900FA3DC8 /* note2.wav */,
+				CB66D6D5209AA2C000FA3DC8 /* note3.wav */,
+				CB66D6D8209AA2CB00FA3DC8 /* note4.wav */,
+				CB66D6D6209AA2C700FA3DC8 /* note5.wav */,
+				CB66D6D3209AA2BC00FA3DC8 /* note6.wav */,
+				CB66D6D4209AA2BE00FA3DC8 /* note7.wav */,
 				CB66D6A3209A9A2400FA3DC8 /* LaunchScreen.storyboard */,
 				CB66D6A6209A9A2400FA3DC8 /* Info.plist */,
 			);
@@ -122,9 +143,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CB66D6DF209AA2E300FA3DC8 /* note4.wav in Resources */,
+				CB66D6DC209AA2E300FA3DC8 /* note3.wav in Resources */,
 				CB66D6A5209A9A2400FA3DC8 /* LaunchScreen.storyboard in Resources */,
+				CB66D6DB209AA2E300FA3DC8 /* note7.wav in Resources */,
+				CB66D6DA209AA2E300FA3DC8 /* note6.wav in Resources */,
 				CB66D6A2209A9A2400FA3DC8 /* Assets.xcassets in Resources */,
+				CB66D6DE209AA2E300FA3DC8 /* note2.wav in Resources */,
 				CB66D6A0209A9A2100FA3DC8 /* Main.storyboard in Resources */,
+				CB66D6E0209AA2E300FA3DC8 /* note1.wav in Resources */,
+				CB66D6DD209AA2E300FA3DC8 /* note5.wav in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
